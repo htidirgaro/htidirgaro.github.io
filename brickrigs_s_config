@@ -25,7 +25,7 @@
   },
   
   "anticipatefantrouble": false,
-  "admob": true,
+  "admob": false,
   "adsadmb": {
     "admb_banner": "ca-app-pub-7144089957930196/5684788593",
     "admb_inters": "ca-app-pub-7144089957930196/4371706921",
