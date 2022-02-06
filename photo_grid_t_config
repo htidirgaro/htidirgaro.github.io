@@ -24,19 +24,19 @@
   },
   
   "anticipatefantrouble": false,
-  "admob": false,
+  "admob": true,
   "adsadmb": {
     "admb_banner": "ca-app-pub-7144089957930196/5684788593",
-    "admb_inters": "ca-app-pub-7144089957930196/7106173711",
-    "admb_native": "ca-app-pub-7144089957930196/1853847039",
-    "admb_native2": "ca-app-pub-7144089957930196/1853847039",
-    "admb_openad": "ca-app-pub-7144089957930196/5793092049"
+    "admb_inters": "ca-app-pub-7144089957930196/8010155298",
+    "admb_native": "ca-app-pub-7144089957930196/7188028214",
+    "admb_native2": "ca-app-pub-7144089957930196/7188028214",
+    "admb_openad": "ca-app-pub-7144089957930196/6697073622"
   },
   
   "onBackOpenAds": true,
   "admbNbOrB": "nb",
   
-  "unity": true, 
+  "unity": false, 
   "adsunity": {
     "unity_ids": "3478504",
     "unity_id": "3667089",
